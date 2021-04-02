@@ -1,0 +1,8 @@
+{
+  "appId": "todo.app",
+  "appName": "todo.app",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "build",
+  "linuxAndroidStudioPath": "/snap/bin/android-studio"
+}
